@@ -24,3 +24,17 @@ body {
       margin: 10px 10px;
       width: 200px;
   }
+
+  main > section button {
+      background-color: #b89b4b;
+      border: none;
+      border-radius: 8px;
+      color: white;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 14px;
+      font-weight: 450;
+      letter-spacing: 0.6px;
+      line-height: 20px;
+      text-transform: uppercase;
+      padding: 6px 15px;
+  }
