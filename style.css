@@ -14,15 +14,15 @@ body {
   main {
       align-items: center;
       display: flex;
-      height: 120vh;
+      height: 100vh;
       justify-content: center;
       position: relative;
   }
 
   main > section img {
-      height: 200px;
-      margin: 10px 10px;
-      width: 200px;
+      height: 150px;
+      margin: 120px 10px;
+      width: 150px;
   }
 
   main > section button {
@@ -34,7 +34,8 @@ body {
       font-size: 15px;
       font-weight: 450;
       letter-spacing: 0.6px;
-      line-height: 20px;
+      line-height: 15px;
+      margin: 80px;
       padding: 6px 15px;
       text-transform: uppercase;
   }
